@@ -20,9 +20,9 @@ import MenuIcon from '@mui/icons-material/Menu';
 import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import NightlightRoundIcon from '@mui/icons-material/NightlightRound';
 import LoginIcon from '@mui/icons-material/Login';
-
 const pages = ['Dashboard', 'Profile'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
+
 
 // Custom Toggle Switch Component
 const ThemeToggle = ({ darkMode, toggleTheme }) => {
