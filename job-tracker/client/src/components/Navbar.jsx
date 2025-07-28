@@ -264,4 +264,5 @@ function Navbar({ darkMode, toggleTheme }) {
   );
 }
 
+
 export default Navbar;
