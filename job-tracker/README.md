@@ -92,6 +92,7 @@ job-tracker/
    python scraper.py
    ```
 
+
 ## Contributing
 
 1. Fork the repository
